@@ -1,2 +1,2 @@
 #### Recipes HTML
-This project is to server as practice with HTML.  
+This project is to serve as practice with HTML.  
